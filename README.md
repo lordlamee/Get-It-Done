@@ -1,8 +1,6 @@
 # getitdone
-
-A new Flutter application.
-
-## Getting Started
+#FLUTTERBREW flutter app
+Simple TO-DO list app
 
 This project is a starting point for a Flutter application.
 
